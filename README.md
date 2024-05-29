@@ -10,7 +10,7 @@ I led a Power BI project for a global cycling equipment manufacturing company, a
 
 I began by gathering data from various sources, including sales databases, CRM systems, and financial records. The sample of uncleaned raw data is shown in the following link with name "Sample of Sales in 2020-2022" 
 
-[Sample of Sales in 2020-2022] (Raw data.png)
+[Sample of Sales in 2020-2022](Raw-data.jpeg)
 
 I then cleaned, transformed, and modelled the data to ensure accuracy and relevance. Using Power BI's advanced analytics and visualization features, I created interactive dashboards and reports, incorporating slicers, filters, and dynamic visuals to provide a user-friendly experience. I then implemented measures to track sales, revenue, and profit metrics, enabling real-time monitoring and benchmarking against targets. The Power BI solution empowered the client to make data-driven decisions, optimize sales strategies, and enhance overall performance. With clear insights into KPIs, the company achieved improved 
 profitability, streamlined operations, and gained a competitive edge in the global market. The data modelling and relational data base tables has been shown below attached by the screenshot 2.
