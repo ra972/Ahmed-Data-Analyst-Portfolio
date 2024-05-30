@@ -14,7 +14,12 @@ The tables pen in the RHS of the Sample of Sales in 2020-2022 dashboard, are ind
 [Data modelling employing the STAR Schema](Screenshot-2024-05-29-230036.jpeg)
 
 Using Power BI's advanced analytics and visualization features, I created interactive dashboards and reports, incorporating slicers, filters, and dynamic visuals to provide a user-friendly experience. I then implemented measures to track sales, revenue, and profit metrics, enabling real-time monitoring and benchmarking against targets. The Power BI solution empowered the client to make data-driven decisions, optimize sales strategies, and enhance overall performance. With clear insights into KPIs, the company achieved improved 
-profitability, streamlined operations, and gained a competitive edge in the global market. The data modelling and relational data base tables has been shown below attached by the screenshot 2.
+profitability, streamlined operations, and gained a competitive edge in the global market. Using DAX with M code, the sample of few analysis are given as below.
+
+[DAX formula in M code for calculating the total sales](Screenshot-2024-05-29-230036.jpeg)
+
+
+The data modelling and relational data base tables has been shown below attached by the screenshot 2.
 I have demonstrated my ability to work effectively in a team environment, and to build and sustain collaborative relationships with internal and external stakeholder. I can interpret complex data sets patterns and trends to organise the information more meaningfully. I am dedicated to continuous improvement, actively seeking opportunities to enhance my skills and qualifications to excel in my role.
 Given the opportunity, I am confident that I can become a valuable member of your team. If your ideal candidate is focused and decisive, organised, and reliable, experienced, and expert, I hope you will consider my application. I extend my thanks for your time and consideration, and I look forward to sharing my perspectives at your organisation and arranging a meeting at your earliest convenience.
 
