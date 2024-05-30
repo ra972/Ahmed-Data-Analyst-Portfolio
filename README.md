@@ -20,7 +20,7 @@ profitability, streamlined operations, and gained a competitive edge in the glob
 
 -[Drilling down for understanding the sales information](Drilling-down.jpeg)
 
--[Sample of Data Hierarchy and M code for the calculation of Product Return Rate](Drilling-down.jpeg)
+-[Sample of Data Hierarchy and M code for the calculation of Product Return Rate](Sample-of-Hiracy-and-M-code.jpeg)
 
 
 The data modelling and relational data base tables has been shown below attached by the screenshot 2.
