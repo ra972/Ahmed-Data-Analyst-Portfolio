@@ -8,10 +8,8 @@ The previous and current projects by employing the data analysis and visulizing 
 
 I led a Power BI project for a global cycling equipment manufacturing company, aiming to develop a dynamic dashboard to track their KPIs: sales, revenue, and profit. The client sought to gain actionable insights with time into their sales performance across diverse markets and product lines. The objective was to develop a comprehensive Power BI dashboard that could aggregate, visualize, and analyse sales data to identify key trends, patterns, and performance indicators with real-time.
 
-I began by gathering data from various sources, including sales databases, CRM systems, and financial records. The sample of uncleaned raw data is shown in the following link with name "Sample of Sales in 2020-2022" 
-
-[Sample of Sales in 2020-2022](Raw-data.jpeg). 
-The tables pen in the RHS of the Sample of Sales in 2020-2022 dashboard, are indicating various product information, return information, Customers information, and region information. These raw data is then cleaned, transformed, and modelled the data to ensure accuracy and relevance ([Samples of Sales Data Cleaning](Sample-of-Data-Cleaning_Sales.jpeg)). The data set has been modelled using the STAR Schema, see the data modelling ground work link 
+I began by gathering data from various sources, including sales databases, CRM systems, and financial records. The sample of uncleaned raw data is shown in the following link [Sample of Sales in 2020-2022](Raw-data.jpeg). 
+The tables pen in the RHS of the Sample of Sales in 2020-2022 dashboard, are indicating various product information, return information, customers information, and region information. These raw data is then cleaned, transformed, and modelled the data to ensure accuracy and relevance, see the link [Samples of Sales Data Cleaning](Sample-of-Data-Cleaning_Sales.jpeg). The data set has been modelled using the STAR Schema, see the data modelling ground work link 
 
 [Data modelling employing the STAR Schema](Screenshot-2024-05-29-230036.jpeg)
 
