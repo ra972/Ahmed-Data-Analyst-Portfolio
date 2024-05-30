@@ -22,8 +22,5 @@ profitability, streamlined operations, and gained a competitive edge in the glob
 
 -[Sample of Data Hierarchy and M code for the calculation of Product Return Rate](Sample-of-Hiracy-and-M-code.jpeg)
 
-
-The data modelling and relational data base tables has been shown below attached by the screenshot 2.
-I have demonstrated my ability to work effectively in a team environment, and to build and sustain collaborative relationships with internal and external stakeholder. I can interpret complex data sets patterns and trends to organise the information more meaningfully. I am dedicated to continuous improvement, actively seeking opportunities to enhance my skills and qualifications to excel in my role.
-Given the opportunity, I am confident that I can become a valuable member of your team. If your ideal candidate is focused and decisive, organised, and reliable, experienced, and expert, I hope you will consider my application. I extend my thanks for your time and consideration, and I look forward to sharing my perspectives at your organisation and arranging a meeting at your earliest convenience.
+For data security and integrity purposes, some crucial results from the project have not been shared in this document. This precaution ensures the protection of sensitive information and maintains the integrity of the data throughout the project's lifecycle.
 
