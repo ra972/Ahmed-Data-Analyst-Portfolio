@@ -11,7 +11,7 @@ I led a Power BI project for a global cycling equipment manufacturing company, a
 I began by gathering data from various sources, including sales databases, CRM systems, and financial records. The sample of uncleaned raw data is shown in the following link with name "Sample of Sales in 2020-2022" 
 
 [Sample of Sales in 2020-2022](Raw-data.jpeg)
-The tables pen in the RHS of the Sample of Sales in 2020-2022 dashboard, are indicating various product information, return information, Customers information, and region information. These raw data is then cleaned, transformed, and modelled the data to ensure accuracy and relevance ([Samples of Sales Data Cleaning](Sample-of-Data-Cleaning_Sales.jpeg). The data set has been modelled using the STAR Schema, see the data modelling ground work link 
+The tables pen in the RHS of the Sample of Sales in 2020-2022 dashboard, are indicating various product information, return information, Customers information, and region information. These raw data is then cleaned, transformed, and modelled the data to ensure accuracy and relevance ([Samples of Sales Data Cleaning](Sample-of-Data-Cleaning_Sales.jpeg)). The data set has been modelled using the STAR Schema, see the data modelling ground work link 
 
 [Data modelling employing the STAR Schema](Screenshot-2024-05-29-230036.jpeg)
 
