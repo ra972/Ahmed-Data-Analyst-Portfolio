@@ -16,7 +16,7 @@ The tables pen in the RHS of the Sample of Sales in 2020-2022 dashboard, are ind
 Using Power BI's advanced analytics and visualization features, I created interactive dashboards and reports, incorporating slicers, filters, and dynamic visuals to provide a user-friendly experience. I then implemented measures to track sales, revenue, and profit metrics, enabling real-time monitoring and benchmarking against targets. The Power BI solution empowered the client to make data-driven decisions, optimize sales strategies, and enhance overall performance. With clear insights into KPIs, the company achieved improved 
 profitability, streamlined operations, and gained a competitive edge in the global market. Using DAX with M code, the sample of few analysis are given as below.
 
-[DAX formula in M code for calculating the total sales](Screenshot-2024-05-29-230036.jpeg)
+[DAX formula in M code for calculating the total sales](Total-sales.jpeg)
 
 
 The data modelling and relational data base tables has been shown below attached by the screenshot 2.
