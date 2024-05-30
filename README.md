@@ -4,7 +4,7 @@ As a Data Analyst in Harwood Acoustics, I employ my skills, experiences, and tec
 
 The previous and current projects by employing the data analysis and visulizing tools e.g., SQL, Power BI, Python, Matlab, and excel, are listed below
 
-## Development of a Dynamic PowerBI Dashboard for Real-Time KPI Tracking 
+## PROJECT TITLE: Development of a Dynamic PowerBI Dashboard for Real-Time Key Performance Indicator (KPI) Tracking 
 
 I led a Power BI project for a global cycling equipment manufacturing company, aiming to develop a dynamic dashboard to track their KPIs: sales, revenue, and profit. The client sought to gain actionable insights with time into their sales performance across diverse markets and product lines. The objective was to develop a comprehensive Power BI dashboard that could aggregate, visualize, and analyse sales data to identify key trends, patterns, and performance indicators with real-time.
 
