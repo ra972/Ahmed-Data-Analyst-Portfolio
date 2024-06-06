@@ -25,6 +25,6 @@ For data security and integrity purposes, some crucial results from the project 
 
 ## SQL PROJECT TITLE: Clean and Filter Movie the Data 
 
-I have been given a set of uncleaned movies data  to clean and filter.  
+I have been given a set of uncleaned movies data ([ftfsftqwffqw] ( 1.jpeg ) to clean and filter.  
 
 
