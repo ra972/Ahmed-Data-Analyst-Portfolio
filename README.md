@@ -25,6 +25,7 @@ For data security and integrity purposes, some crucial results from the project 
 
 ## SQL PROJECT TITLE: Clean and Filter Movie the Data 
 
-I have been given a set of uncleaned movies data ([Movie_data](1.jpeg)) to clean and filter. The data has been then cleaned and filtered acording to the type of movie ([filtered action movie](2.jpeg)) release date, and revenue ([filtered Comedy movies which sequered revenue above 300000000](3.jpeg)). The cleaned data was then used to visulize based on the genere i.e., drama, action, and comedy
+I have been given a set of uncleaned movies data ([Movie_data](1.jpeg)) to clean and filter. The data has been then cleaned and filtered acording to the type of movie ([filtered action movie](2.jpeg)) release date, and revenue ([filtered Comedy movies which sequered revenue above 300000000](3.jpeg)). The cleaned data was then used to visulize based on the genere i.e., drama, action, and comedy ([ Sample of Movie Bar Chart Based on Genre and Gender![image](https://github.com/ra972/Ahmed-Data-Analyst-Portfolio/assets/37319110/33752421-a167-4dd8-b6de-137160774119)
+](2.jpeg))
 
 
