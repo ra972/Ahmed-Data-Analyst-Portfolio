@@ -25,6 +25,6 @@ For data security and integrity purposes, some crucial results from the project 
 
 ## SQL PROJECT TITLE: Clean and Filter Movie the Data 
 
-I have been given a set of uncleaned movies data ([Movie_data](1.jpeg)) to clean and filter.  Then the data has been cleaned and filtered acording to the type of movie ([filtered action movie](2.jpeg)) release date, and revenue ([filtered Comedy movies which sequered revenue above 300000000](3.jpeg)). 
+I have been given a set of uncleaned movies data ([Movie_data](1.jpeg)) to clean and filter. The data has been then cleaned and filtered acording to the type of movie ([filtered action movie](2.jpeg)) release date, and revenue ([filtered Comedy movies which sequered revenue above 300000000](3.jpeg)). The cleaned data was then used to visulize based on the genere i.e., drama, action, and comedy
 
 
