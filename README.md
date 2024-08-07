@@ -2,7 +2,7 @@
 
 As a Data Analyst in Harwood Acoustics, I employ my skills, experiences, and technical expertise to achieve outcomes for the company. I am deeply passionate about the data analysis work I am currently engaged in because it allows me to uncover meaningful insights, identify patterns, and contribute to informed decision-making, fostering my enthusiasm for transforming raw data into valuable knowledge. I am confident that I can add significant value as a Data and Business Analyst. The previous and current projects by employing the data analysis and visulizing tools e.g., SQL, Power BI, Python, Matlab, and excel, are listed below
 
-## POWER BI PROJECT TITLE: Development of a Dynamic PowerBI Dashboard for Real-Time Key Performance Indicator (KPI) Tracking 
+## POWER BI PROJECT TITLE: Development of a Dynamic and Interactive PowerBI Dashboard for Real-Time Key Performance Indicator (KPI) Tracking 
 
 I led a Power BI project for a global cycling equipment manufacturing company, aiming to develop a dynamic and interactive dashboard to track the company KPIs(sales, revenue, and profit), geospatial analysis, and product level analysis. The client sought to gain actionable insights with time into their sales performance across diverse markets and product lines. The objective was to develop a comprehensive Power BI dashboard that could aggregate, visualize, and analyse sales data to identify key trends, patterns, and performance indicators with real-time.
 
@@ -27,7 +27,6 @@ profitability, streamlined operations, and gained a competitive edge in the glob
 -[Business performance dashboard with time](pic3.jpeg)
 
 -[Dashboard of coustomers details](pic4.jpeg)
-
 
 For data security and integrity purposes, some crucial results from the project have not been shared in this document. This precaution ensures the protection of sensitive information and maintains the integrity of the data throughout the project's lifecycle.
 
