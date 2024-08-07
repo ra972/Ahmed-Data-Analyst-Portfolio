@@ -19,6 +19,7 @@ profitability, streamlined operations, and gained a competitive edge in the glob
 -[Drilling down for understanding the sales information](Drilling-down.jpeg)
 
 -[Sample of Data Hierarchy and M code for the calculation of Product Return Rate](Sample-of-Hiracy-and-M-code.jpeg)
+-[Dynamic and interactive dashboard:Orders,Profit,Revenue,Return Rate of the products]
 
 For data security and integrity purposes, some crucial results from the project have not been shared in this document. This precaution ensures the protection of sensitive information and maintains the integrity of the data throughout the project's lifecycle.
 
