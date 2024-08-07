@@ -24,6 +24,8 @@ profitability, streamlined operations, and gained a competitive edge in the glob
 
 -[Dynamic and interactive dashboard: KPI based on the geographical area](pic2.jpeg)
 
+-[Business performance dashboard with time ](pic3.jpeg)
+
 For data security and integrity purposes, some crucial results from the project have not been shared in this document. This precaution ensures the protection of sensitive information and maintains the integrity of the data throughout the project's lifecycle.
 
 
