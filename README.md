@@ -34,17 +34,17 @@ For data security and integrity purposes, some crucial results from the project 
 ## TABLEAU PROJECT TITLE: Sales Analysis with Tableau
 -[Dashboard of Sales Analysis](Tablaudash.jpeg)
 
-Project Overview
+Project Overview:
 This project showcases a sales analysis dashboard built using Tableau. The analysis focuses on the total sales performance of various sales representatives across different regions. The purpose of this project is to provide insights into the sales distribution by region and by representative, helping stakeholders identify top performers and areas that may need improvement.
 
-Objective
+Objective:
 The primary objective of this project is to analyze the total sales figures across different regions and sales representatives. This analysis aims to:
 -Visualize the total sales by region and representative.
 -Identify top-performing representatives in each region.
 -Highlight regions or representatives with lower sales figures for potential performance improvement.
 -Provide a comprehensive view of sales distribution across the company.
 
-Data
+Data:
 The data used in this project includes:
 -Item: The product being sold.
 -Order Date: The date when the order was placed.
@@ -54,7 +54,7 @@ The data used in this project includes:
 -Unit Price: The price per unit of the product sold.
 -Units: The number of units sold.
 
-Dashboard Features
+Dashboard Features:
 -The Tableau dashboard consists of the following key features:
 -Bar Chart Visualization: A bar chart representing total sales by sales representative, segmented by region. This visualization helps in identifying the top sales reps in each region.
 -Color Coding: Different colors are used to represent different sales representatives for easy identification.
@@ -65,7 +65,7 @@ Insights From the Analysis:
 -The Central region also shows strong performance, particularly by Matthew.
 -Some regions have sales representatives with lower sales figures, indicating areas where performance improvement strategies may be needed.
 
-Conclusion
+Conclusion:
 This Tableau dashboard effectively visualizes the distribution of sales across regions and representatives, providing valuable insights for decision-makers. The interactive nature of the dashboard allows users to explore the data in various ways, leading to more informed business strategies.
 
 ## SQL PROJECT TITLE: Clean and Filter Movie the Data 
