@@ -31,6 +31,53 @@ profitability, streamlined operations, and gained a competitive edge in the glob
 For data security and integrity purposes, some crucial results from the project have not been shared in this document. This precaution ensures the protection of sensitive information and maintains the integrity of the data throughout the project's lifecycle.
 
 
+
+
+## Supplies Sales Analysis with Tableau
+
+-[Dashboard of Sales Analysis](pic4.jpeg)
+
+Project Overview
+This project showcases a sales analysis dashboard built using Tableau. The analysis focuses on the total sales performance of various sales representatives across different regions. The purpose of this project is to provide insights into the sales distribution by region and by representative, helping stakeholders identify top performers and areas that may need improvement.
+
+Objective
+The primary objective of this project is to analyze the total sales figures across different regions and sales representatives. This analysis aims to:
+
+Visualize the total sales by region and representative.
+Identify top-performing representatives in each region.
+Highlight regions or representatives with lower sales figures for potential performance improvement.
+Provide a comprehensive view of sales distribution across the company.
+Data
+The data used in this project includes:
+
+Item: The product being sold.
+Order Date: The date when the order was placed.
+Region: The geographical area where the sales were made (Central, East, West).
+Rep: The sales representative responsible for the sales.
+Total Sales: The total sales amount for each transaction.
+Unit Price: The price per unit of the product sold.
+Units: The number of units sold.
+Dashboard Features
+The Tableau dashboard consists of the following key features:
+
+Bar Chart Visualization: A bar chart representing total sales by sales representative, segmented by region. This visualization helps in identifying the top sales reps in each region.
+
+Color Coding: Different colors are used to represent different sales representatives for easy identification.
+
+Interactive Filters: The dashboard allows users to filter data by specific regions or representatives, making it easier to focus on particular segments.
+
+Insights
+From the analysis:
+
+The East region shows the highest sales performance, with Susan being the top sales representative.
+The Central region also shows strong performance, particularly by Matthew.
+Some regions have sales representatives with lower sales figures, indicating areas where performance improvement strategies may be needed.
+Conclusion
+This Tableau dashboard effectively visualizes the distribution of sales across regions and representatives, providing valuable insights for decision-makers. The interactive nature of the dashboard allows users to explore the data in various ways, leading to more informed business strategies.
+
+
+
+
 ## SQL PROJECT TITLE: Clean and Filter Movie the Data 
 
 I have been given a set of uncleaned movies data ([Movie_data](1.jpeg)) to clean and filter. The data has been then cleaned and filtered acording to the type of movie ([filtered action movie](2.jpeg)) release date, and revenue ([filtered Comedy movies which sequered revenue above 300000000](3.jpeg)). The cleaned data was then used to visulize based on the genere ,i.e.,drama, action, and comedy ([Sample of Movie Bar Chart Based on Genre and Gender](Screenshot-2024-06-06-at-12.42.23-pm.jpeg)).
