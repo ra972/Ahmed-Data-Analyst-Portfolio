@@ -31,11 +31,9 @@ profitability, streamlined operations, and gained a competitive edge in the glob
 For data security and integrity purposes, some crucial results from the project have not been shared in this document. This precaution ensures the protection of sensitive information and maintains the integrity of the data throughout the project's lifecycle.
 
 
-
-
 ## Supplies Sales Analysis with Tableau
 
--[Dashboard of Sales Analysis] (Tablau dash.jpeg)
+-[Dashboard of Sales Analysis](Tablaudash.jpeg)
 
 Project Overview
 This project showcases a sales analysis dashboard built using Tableau. The analysis focuses on the total sales performance of various sales representatives across different regions. The purpose of this project is to provide insights into the sales distribution by region and by representative, helping stakeholders identify top performers and areas that may need improvement.
