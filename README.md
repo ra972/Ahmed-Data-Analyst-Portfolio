@@ -35,7 +35,7 @@ For data security and integrity purposes, some crucial results from the project 
 
 ## Supplies Sales Analysis with Tableau
 
--[Dashboard of Sales Analysis](pic4.jpeg)
+-[Dashboard of Sales Analysis] (Tablau dash.jpeg)
 
 Project Overview
 This project showcases a sales analysis dashboard built using Tableau. The analysis focuses on the total sales performance of various sales representatives across different regions. The purpose of this project is to provide insights into the sales distribution by region and by representative, helping stakeholders identify top performers and areas that may need improvement.
