@@ -92,9 +92,8 @@ This Tableau dashboard effectively visualizes the distribution of sales across r
 ## TABLEAU PROJECT TITLE: Visualizing USA Unemployment Trends by Age Group
 
 Project Description:
-[USA Unemployment Trends by Age Group](1724252832496.jpeg)
 
-This Tableau project visualizes the trends in unemployment across different age groups in the USA, highlighting how various demographic segments were impacted over time. The visualization, presented as a stacked area chart, breaks down the total number of unemployed individuals into age groups such as "20 to 24 years", "25 to 34 years", "35 to 44 years", "45 to 54 years", "55 to 64 years", and "65 years and over".
+This Tableau project ([Dashboard of USA Unemployment Trends by Age Group](1724252832496.jpeg)) visualizes the trends in unemployment across different age groups in the USA, highlighting how various demographic segments were impacted over time. The visualization, presented as a stacked area chart, breaks down the total number of unemployed individuals into age groups such as "20 to 24 years", "25 to 34 years", "35 to 44 years", "45 to 54 years", "55 to 64 years", and "65 years and over".
 The data reveals significant fluctuations in unemployment, particularly around major economic events, with younger age groups experiencing more volatility. The chart effectively shows the cumulative impact of unemployment across age demographics, allowing for easy comparison and historical analysis.
 This project provides valuable insights for policymakers, economists, and researchers, offering a clear visual representation of how unemployment has evolved across different age categories in the USA. The visualization can be used to inform decisions regarding economic policies and workforce development strategies.
 
