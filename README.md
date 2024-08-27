@@ -11,8 +11,8 @@ As a Data Analyst in Harwood Acoustics, I employ my skills, experiences, and tec
 
 - [MSc in Mathematics, KU, 2016](Msc-Certificate.jpeg)
 
-- [Postgraduation (Data Modelling & Research), University of Wollongong, 2022]()
-
+- [Postgraduation (Data Modelling & Research), University of Wollongong, 2022](PhD-Certificate-RUBEL-AHMED.jpeg)
+  
 - [Google Data Analytics Professional Certificate, Google, 2024](googleanalytics.jpeg)
 
 - [Microsoft Power BI Desktop for Business Intelligence, Udemy, 2024](PowerBI.jpeg)
