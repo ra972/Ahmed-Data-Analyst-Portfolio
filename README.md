@@ -7,7 +7,7 @@ As a Data Analyst in Harwood Acoustics, I employ my skills, experiences, and tec
 - Application: SQL,PowerBI,Tableau,Microsoft Word,Excel,Power Point,Trim,Tecplot, Alteryx, & Snowflake. 
 
 ## EDUCATION & CERTIFICATIONS
-- [BSc in Mathematics, KU, 2014]()
+- [BSc in Mathematics, KU, 2014](BSC-certificate.jpeg)
 
 - [MSc in Mathematics, KU, 2016]()
 
