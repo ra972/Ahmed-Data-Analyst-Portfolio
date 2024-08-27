@@ -1,6 +1,15 @@
 # Ahmed-Data-Analyst-Portfolio
 
-As a Data Analyst in Harwood Acoustics, I employ my skills, experiences, and technical expertise to achieve outcomes for the company. I am deeply passionate about the diverse data analysis work I am currently engaged in because it allows me to uncover meaningful insights, identify patterns, and contribute to informed decision-making, fostering my enthusiasm for transforming raw data into valuable knowledge. I am confident that I can add significant value as a Data and Business Analyst. The previous and current projects by employing the data analysis and visulizing tools e.g., SQL, Power BI, Tableau, Python, and excel, are listed below
+As a Data Analyst in Harwood Acoustics, I employ my skills, experiences, and technical expertise to achieve outcomes for the company. I am deeply passionate about the diverse data analysis work I am currently engaged in because it allows me to uncover meaningful insights, identify patterns, and contribute to informed decision-making, fostering my enthusiasm for transforming raw data into valuable knowledge. I am confident that I can add significant value as a Data and Business Analyst. 
+
+## TECHNICAL SKILLS
+- Programming: R, Python, & C++.
+- Application: SQL,PowerBI,Tableau,Microsoft Word,Excel,Power Point,Trim,Tecplot, Alteryx, & Snowflake. 
+
+
+
+
+The previous and current projects by employing the data analysis and visulizing tools e.g., SQL, Power BI, Tableau, Python, and excel, are listed below
 
 ## POWER BI PROJECT TITLE: Development of a Dynamic and Interactive PowerBI Dashboard for Real-Time Key Performance Indicator (KPI) Tracking 
 
