@@ -89,6 +89,13 @@ Insights From the Analysis:
 Conclusion:
 This Tableau dashboard effectively visualizes the distribution of sales across regions and representatives, providing valuable insights for decision-makers. The interactive nature of the dashboard allows users to explore the data in various ways, leading to more informed business strategies.
 
+## TABLEAU PROJECT TITLE: Visualizing USA Unemployment Trends by Age Group
+
+Project Description:
+This Tableau project visualizes the trends in unemployment across different age groups in the USA, highlighting how various demographic segments were impacted over time. The visualization, presented as a stacked area chart, breaks down the total number of unemployed individuals into age groups such as "20 to 24 years", "25 to 34 years", "35 to 44 years", "45 to 54 years", "55 to 64 years", and "65 years and over".
+The data reveals significant fluctuations in unemployment, particularly around major economic events, with younger age groups experiencing more volatility. The chart effectively shows the cumulative impact of unemployment across age demographics, allowing for easy comparison and historical analysis.
+This project provides valuable insights for policymakers, economists, and researchers, offering a clear visual representation of how unemployment has evolved across different age categories in the USA. The visualization can be used to inform decisions regarding economic policies and workforce development strategies.
+
 ## SQL PROJECT TITLE: Clean and Filter Movie the Data 
 
 I have been given a set of uncleaned movies data ([Movie_data](1.jpeg)) to clean and filter. The data has been then cleaned and filtered acording to the type of movie ([filtered action movie](2.jpeg)) release date, and revenue ([filtered Comedy movies which sequered revenue above 300000000](3.jpeg)). The cleaned data was then used to visulize based on the genere ,i.e.,drama, action, and comedy ([Sample of Movie Bar Chart Based on Genre and Gender](Screenshot-2024-06-06-at-12.42.23-pm.jpeg)).
