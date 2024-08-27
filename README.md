@@ -7,6 +7,7 @@ As a Data Analyst in Harwood Acoustics, I employ my skills, experiences, and tec
 - Application: SQL,PowerBI,Tableau,Microsoft Word,Excel,Power Point,Trim,Tecplot, Alteryx, & Snowflake. 
 
 -[Google Data Analytics Professional Certificate, Google, 2024](googleanalytics.jpeg)
+-[Microsoft Power BI Desktop for Business Intelligence, Udemy, 2024]()
 
 The previous and current projects by employing the data analysis and visulizing tools e.g., SQL, Power BI, Tableau, Python, and excel, are listed below
 
