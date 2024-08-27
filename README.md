@@ -1,5 +1,4 @@
 # Ahmed-Data-Analyst-Portfolio
-
 As a Data Analyst in Harwood Acoustics, I employ my skills, experiences, and technical expertise to achieve outcomes for the company. I am deeply passionate about the diverse data analysis work I am currently engaged in because it allows me to uncover meaningful insights, identify patterns, and contribute to informed decision-making, fostering my enthusiasm for transforming raw data into valuable knowledge. I am confident that I can add significant value as a Data and Business Analyst. 
 
 ## TECHNICAL SKILLS
