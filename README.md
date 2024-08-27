@@ -7,11 +7,20 @@ As a Data Analyst in Harwood Acoustics, I employ my skills, experiences, and tec
 - Application: SQL,PowerBI,Tableau,Microsoft Word,Excel,Power Point,Trim,Tecplot, Alteryx, & Snowflake. 
 
 ## EDUCATION & CERTIFICATIONS
+- [BSc in Mathematics, KU, 2014]()
+
+- [MSc in Mathematics, KU, 2016]()
+
+- [Postgraduation (Data Modelling & Research), University of Wollongong, 2022]()
+
 - [Google Data Analytics Professional Certificate, Google, 2024](googleanalytics.jpeg)
 
 - [Microsoft Power BI Desktop for Business Intelligence, Udemy, 2024](PowerBI.jpeg)
   
 - [SQL for Data Science, Google, 2024](R-Programming.jpeg)
+  
+- [Tableau 2024 A-Z: Hands-On Tableau Training for Data Science, Udemy, 2024](Tableau.jpeg)
+
 
 The previous and current projects by employing the data analysis and visulizing tools e.g., SQL, Power BI, Tableau, Python, and excel, are listed below
 
