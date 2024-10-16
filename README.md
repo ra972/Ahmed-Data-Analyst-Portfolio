@@ -23,6 +23,18 @@ As a Data Analyst in Harwood Acoustics, I employ my skills, experiences, and tec
 
 The previous and current projects by employing the data analysis and visulizing tools e.g., SQL, Power BI, Tableau, Python, and excel, are listed below
 
+
+## PYTHON & SQL PROJECT TITLE: Analysis of Age Pensioner Clients Profile in Auburn & Bankstown Local Government Area (LGA)
+
+I was tasked with analysing age pensioner data, including family situation, disability, special needs, hospital admissions, social housing, and crime numbers, in Auburn and Bankstown within the larger Sydney area.
+The main challenge was to accurately separate the Auburn and Bankstown pensioner data from the broader Sydney council area, clean it, and analyse it using advanced data processing techniques. I needed to provide actionable recommendations to improve living standards for these pensioners.
+Using Python and SQL, I cleaned and processed large datasets, ensuring accurate segmentation of Auburn and Bankstown data. I developed efficient queries and algorithms to isolate pensioner data from the greater Sydney dataset. I then visualized key insights to identify patterns, trends, and outliers, addressing critical issues such as physical disabilities, psychological conditions, and living conditions. Through advanced data handling techniques, I built comprehensive profiles of the pensioners and identified areas for improvement in their living standards.
+
+My analysis led to several important recommendations, including enhancing disability support (for 13.9% with physical disabilities), addressing psychological and cancer-related healthcare (for 3.4% and 0.7%, respectively), focusing on preventive care for the majority (80.4% with no special needs), improving respiratory healthcare (for 17% of emergency presentations), and developing targeted housing support for single pensioners with children (83.3%). These recommendations were well-received and formed the basis for actionable plans to improve pensioner living conditions in these areas.
+This project demonstrates my advanced skills in using Python and SQL to handle complex data processing, analysis, and visualization tasks.
+
+
+
 ## POWER BI PROJECT TITLE: Development of a Dynamic and Interactive PowerBI Dashboard for Real-Time Key Performance Indicator (KPI) Tracking 
 
 I led a Power BI project for a global cycling equipment manufacturing company, aiming to develop a dynamic and interactive dashboard to track the company KPIs(sales, revenue, and profit), geospatial analysis, and product level analysis. The client sought to gain actionable insights with time into their sales performance across diverse markets and product lines. The objective was to develop a comprehensive Power BI dashboard that could aggregate, visualize, and analyse sales data to identify key trends, patterns, and performance indicators with real-time.
