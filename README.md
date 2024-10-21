@@ -8,7 +8,7 @@ As a Data Analyst in Harwood Acoustics, I employ my skills, experiences, and tec
 ## EDUCATION & CERTIFICATIONS
 - [BSc in Mathematics, KU, 2014](BSC-certificate.jpeg)
 
-- [MSc in Mathematics, KU, 2016](Msc-Certificate.jpeg)
+- [MSc in Applied Mathematics, KU, 2016](Msc-Certificate.jpeg)
 
 - [Postgraduation (Data Modelling & Research), University of Wollongong, 2022](PhD-Certificate-RUBEL-AHMED.jpeg)
   
